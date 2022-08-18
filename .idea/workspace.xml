@@ -38,7 +38,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/java/rest-with-spring-boot-and-java-erudio/05_FirstStepsJavawithSpringBoot",
+    "last_opened_file_path": "C:/java/rest-with-spring-boot-and-java-erudio/SpringBoot",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -69,6 +69,7 @@
       <updated>1660178325859</updated>
       <workItem from="1660178328936" duration="1619000" />
       <workItem from="1660254632120" duration="1118000" />
+      <workItem from="1660261931897" duration="52000" />
     </task>
     <servers />
   </component>
