@@ -1,5 +1,7 @@
 package br.com.erudio.data.vo.v1;
 
+import com.fasterxml.jackson.annotation.JsonPropertyOrder;
+
 import java.io.Serializable;
 
 public class PersonVO implements Serializable {
